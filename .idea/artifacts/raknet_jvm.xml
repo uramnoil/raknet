@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="raknet-jvm">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="raknet-jvm.jar">
+      <element id="module-output" name="raknet.jvmMain" />
+    </root>
+  </artifact>
+</component>
